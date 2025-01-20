@@ -1,0 +1,17 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Navigate to git-app directory
+        run: cd git-app
+      - name: Install dependencies
+        run: npm install
+        working-directory: git-app
+      - name: Run linter
+        run: npm run lint
+        working-directory: git-app

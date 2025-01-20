@@ -1,0 +1,29 @@
+# Logs
+git-app/logs
+git-app/*.log
+git-app/npm-debug.log*
+git-app/yarn-debug.log*
+git-app/yarn-error.log*
+git-app/pnpm-debug.log*
+git-app/lerna-debug.log*
+
+# Dependencies and build
+git-app/node_modules
+git-app/dist
+git-app/dist-ssr
+git-app/*.local
+
+# Editor directories and files
+git-app/.vscode/*
+!git-app/.vscode/extensions.json
+git-app/.idea
+git-app/.DS_Store
+git-app/*.suo
+git-app/*.ntvs*
+git-app/*.njsproj
+git-app/*.sln
+git-app/*.sw?
+
+# Environment variables
+.env
+git-app/.env

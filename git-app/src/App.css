@@ -4,3 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

@@ -28,6 +28,8 @@ npm run dev
 
 - **Vincent TO**
 
+- **Joel Aka**
+
 ## Technologies Used
 
 - React.js
@@ -49,4 +51,4 @@ If you have any questions, feel free to reach out to team members:
 
 
 ---
-Made with ❤️ by Dilan EESHVARAN & Vincent TO
+Made with ❤️ by Dilan EESHVARAN , Vincent TO & Joel Aka

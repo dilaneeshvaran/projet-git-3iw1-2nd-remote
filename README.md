@@ -28,6 +28,8 @@ npm run dev
 
 - **Vincent TO**
 
+- **Joel Aka**
+
 ## Technologies Used
 
 - React.js
@@ -45,6 +47,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 If you have any questions, feel free to reach out to team members:
 - Dilan EESHVARAN - [GitHub Profile]
 - Vincent TO - [GitHub Profile]
+- AKA Kassi Joel Emmanuel
+
 
 ---
-Made with ❤️ by Dilan EESHVARAN & Vincent TO
+Made with ❤️ by Dilan EESHVARAN , Vincent TO & Joel Aka

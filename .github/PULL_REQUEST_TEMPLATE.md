@@ -1,9 +1,11 @@
-# [#123] - Issue Title
+# GH-<issue-number> - <issue-title>
 
 ## Description
+
 <!-- Please explain the changes you made and why -->
 
 ## Related Issue
+
 <!-- Please link the issue this PR addresses -->
 
 Closes #<issue-number>
@@ -19,6 +21,7 @@ Please check the relevant options:
 - [ ] Other (please specify)
 
 ## Testing
+
 <!-- Describe the tests you ran and how to reproduce them -->
 
 ## Checklist
